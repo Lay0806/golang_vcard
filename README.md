@@ -3,12 +3,12 @@
 本模块是使用golang制作的 Vard/Valendar格式与Json格式之间的相互转换。
 ##### 下载说明
   * go get远程git库
-  `go get -insecure servergit.zeusis.com/common/golib_vcard.git`
+  `go get -insecure git@github.com:Lay0806/golang_vcard.git`
 
 ##### 使用说明
 - import
     ```go
-         import ("servergit.zeusis.com/common/golib_vcard.git")
+         import ("git@github.com:Lay0806/golang_vcard.git")
     ```
 - vard/valendar转为Json
    ```go
